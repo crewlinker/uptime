@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1699,
-    "timeDay": 440,
-    "timeWeek": 1699,
-    "timeMonth": 1699,
-    "timeYear": 1699,
+    "time": 1431,
+    "timeDay": 413,
+    "timeWeek": 1431,
+    "timeMonth": 1431,
+    "timeYear": 1431,
     "dailyMinutesDown": {}
   },
   {
@@ -28,31 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 211,
-    "timeDay": 192,
-    "timeWeek": 211,
-    "timeMonth": 211,
-    "timeYear": 211,
+    "time": 190,
+    "timeDay": 164,
+    "timeWeek": 190,
+    "timeMonth": 190,
+    "timeYear": 190,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Fail Test API",
-    "url": "https://httpstat.us/500",
-    "icon": "https://favicons.githubusercontent.com/httpstat.us",
-    "slug": "fail-test-api",
-    "status": "down",
-    "uptime": "8.10%",
-    "uptimeDay": "8.10%",
-    "uptimeWeek": "8.10%",
-    "uptimeMonth": "8.10%",
-    "uptimeYear": "8.10%",
-    "time": 85,
-    "timeDay": 85,
-    "timeWeek": 85,
-    "timeMonth": 85,
-    "timeYear": 85,
-    "dailyMinutesDown": {
-      "2022-08-26": 0
-    }
   }
 ]
