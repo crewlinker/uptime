@@ -6,6 +6,8 @@ sites:
     url: api.crewlinker.com
   - name: Crewlinker WEB
     url: https://crewlinker.com
+  - name: Fail Test API # This will fail and notify you via slack and assign the issue on GitHub
+    url: https://httpstat.us/500
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,7 +26,6 @@ status-website:
 assignees:
   - advanderveer
   - gurkanguray
-  - 
 
 user-agent: crewlinker
 
