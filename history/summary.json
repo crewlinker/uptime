@@ -22,19 +22,19 @@
     "url": "https://crewlinker.com",
     "icon": "https://favicons.githubusercontent.com/crewlinker.com",
     "slug": "crewlinker-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 148,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 161,
+    "timeDay": 135,
+    "timeWeek": 161,
+    "timeMonth": 161,
+    "timeYear": 161,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 8
     }
   }
 ]
