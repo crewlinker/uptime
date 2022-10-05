@@ -1,7 +1,7 @@
 url: https://crewlinker.com
-status: up
-code: 200
-responseTime: 275
-lastUpdated: 2022-10-04T23:03:38.128Z
+status: down
+code: 500
+responseTime: 3175
+lastUpdated: 2022-10-05T21:29:01.204Z
 startTime: Thu Aug 25 2022 16:19:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
