@@ -22,9 +22,9 @@
     "url": "https://crewlinker.com",
     "icon": "https://icons.duckduckgo.com/ip3/crewlinker.com.ico",
     "slug": "crewlinker-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -34,6 +34,7 @@
     "timeMonth": 145,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-11-07": 0,
       "2022-10-05": 11,
       "2022-09-19": 11,
       "2022-08-30": 8
