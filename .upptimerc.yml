@@ -3,7 +3,7 @@ repo: uptime # The name of this repository
 
 sites:
   - name: Crewlinker API
-    url: api.crewlinker.com
+    url: graphapi.prod.v3.crewlinker.com
   - name: Crewlinker WEB
     url: https://crewlinker.com
   # - name: Fail Test API # This will fail and notify you via slack and assign the issue on GitHub
