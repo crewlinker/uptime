@@ -1,5 +1,4 @@
 # [📈 Live Status](https://crewlinker.github.io/uptime): <!--live status--> **🟧 Partial outage**
-# [📈 Live Status](https://crewlinker.github.io/uptime): <!--live status--> **🟧 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Crewlinker](crewlinker.com), powered by [Upptime](https://github.com/upptime/upptime).
 
