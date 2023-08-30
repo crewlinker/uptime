@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crewlinker-api",
     "status": "up",
-    "uptime": "85.30%",
+    "uptime": "85.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "85.17%",
-    "time": 844,
-    "timeDay": 649,
-    "timeWeek": 743,
-    "timeMonth": 836,
-    "timeYear": 836,
+    "uptimeYear": "84.90%",
+    "time": 846,
+    "timeDay": 1205,
+    "timeWeek": 770,
+    "timeMonth": 853,
+    "timeYear": 839,
     "dailyMinutesDown": {
-      "2023-08-29": 14,
+      "2023-08-30": 14,
+      "2023-08-29": 1440,
       "2023-08-28": 1440,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
@@ -87,9 +88,9 @@
     "uptimeMonth": "77.12%",
     "uptimeYear": "97.43%",
     "time": 191,
-    "timeDay": 65,
-    "timeWeek": 144,
-    "timeMonth": 138,
+    "timeDay": 117,
+    "timeWeek": 120,
+    "timeMonth": 140,
     "timeYear": 192,
     "dailyMinutesDown": {
       "2023-08-10": 667,
@@ -110,8 +111,7 @@
       "2022-11-09": 16,
       "2022-11-07": 8,
       "2022-10-05": 11,
-      "2022-09-19": 11,
-      "2022-08-30": 8
+      "2022-09-19": 11
     }
   }
 ]
