@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "crewlinker-api",
     "status": "up",
-    "uptime": "80.47%",
+    "uptime": "80.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "90.21%",
     "uptimeYear": "76.49%",
-    "time": 867,
-    "timeDay": 1060,
-    "timeWeek": 1047,
-    "timeMonth": 959,
-    "timeYear": 904,
+    "time": 868,
+    "timeDay": 1235,
+    "timeWeek": 1118,
+    "timeMonth": 975,
+    "timeYear": 907,
     "dailyMinutesDown": {
       "2023-10-19": 434,
       "2023-10-18": 1440,
@@ -115,15 +115,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/crewlinker.com.ico",
     "slug": "crewlinker-web",
     "status": "up",
-    "uptime": "91.00%",
+    "uptime": "91.02%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "22.67%",
+    "uptimeWeek": "36.96%",
     "uptimeMonth": "67.95%",
     "uptimeYear": "89.17%",
     "time": 197,
-    "timeDay": 200,
-    "timeWeek": 124,
-    "timeMonth": 173,
+    "timeDay": 143,
+    "timeWeek": 134,
+    "timeMonth": 174,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2023-11-06": 609,
@@ -173,8 +173,7 @@
       "2023-03-22": 1440,
       "2023-03-21": 2,
       "2022-11-15": 16,
-      "2022-11-11": 8,
-      "2022-11-09": 16
+      "2022-11-11": 8
     }
   }
 ]
